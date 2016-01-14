@@ -1,0 +1,119 @@
+#pageContainer {
+  width: 100%;
+  height: 100%;
+  font-family: 'Ubuntu Condensed';
+}
+
+.navBar {
+  width: 100%;
+  height: 80px;
+  background-color: black;
+  color: white;
+}
+
+.navBar ul {
+  display: inline-block;
+  list-style: none;
+  margin: 0;
+}
+
+.navBar li {
+  position: relative;
+  float: left;
+  top: 30px;
+  margin-left: 60px;
+}
+
+.navBar a {
+  text-decoration: none;
+  color: white;
+}
+
+.intro {
+  width: 100%;
+  height: 325px;
+  background-size: 100%;
+  background-image: url("../images/mac2.jpg");
+  background-position: 40% 30%;
+  text-align: center;
+  border-bottom: 4px solid black;
+}
+
+.intro h4 {
+  margin: 0;
+  font-size: 30px;
+  position: relative;
+  top: 19%;
+}
+
+.intro h1 {
+  position: relative;
+  top: 25%;
+  font-size: 40px;
+}
+
+.aboutMe {
+  width: 90%;
+  margin: auto;
+}
+
+.aboutMe h2 {
+  font-size: 28px;
+  margin: 5px;
+}
+
+.meContainer {
+  width: 95%;
+  margin: auto;
+}
+
+.image {
+  width: 15%;
+  height: 250px;
+  display: inline-block;
+  position: relative;
+}
+
+.image img {
+  width: 150px;
+  height: 200px;
+  border-radius: 10px;
+  position: relative;
+  bottom: 5px;
+}
+
+.basics {
+  display: inline-block;
+  width: 80%;
+}
+
+.basics span {
+  font-size: 17px;
+}
+
+
+.footerContainer {
+  width: 100%;
+  height: 50px;
+  background: black;
+}
+
+.social {
+  text-align: center;
+  list-style: none;
+  position: relative;
+  margin: 0;
+}
+
+.social li {
+  display: inline-block;
+  margin-right: 40px;
+  margin-top: 10px;
+  font-size: 25px;
+}
+
+.social a {
+  text-decoration: none;
+  color: white;
+}
+
