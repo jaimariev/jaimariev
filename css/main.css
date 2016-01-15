@@ -76,7 +76,7 @@ h4 {
 }
 
 .image {
-  width: 15%;
+  width: 18%;
   height: 250px;
   display: inline-block;
   position: relative;
@@ -92,7 +92,9 @@ h4 {
 
 .basics {
   display: inline-block;
-  width: 80%;
+  width: 78%;
+  position: relative;
+  bottom: 10px;
 }
 
 .basics span {
@@ -181,6 +183,7 @@ h4 {
 
 .toTop {
   font-size: 20px;
+  text-decoration: none;
 }
 
 .footerContainer {
