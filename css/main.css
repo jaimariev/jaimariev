@@ -106,8 +106,8 @@ h4 {
 }
 
 #myProjects img {
-  width: 380px;
-  height: 300px;
+  width: 420px;
+  height: 340px;
   border-radius: 5px;
   border: 1px solid black;
 }
@@ -118,6 +118,11 @@ h4 {
 
 #myProjects p {
   font-size: 18px;
+}
+
+#myProjects a {
+  text-decoration: none;
+  color: blue;
 }
 
 .capstone img {
@@ -148,6 +153,11 @@ h4 {
 
 #mySkills h3 {
   font-size: 22px;
+}
+
+#mySkills a {
+  text-decoration: none;
+  color: blue;
 }
 
 .education p {
@@ -183,6 +193,7 @@ h4 {
 .toTop {
   font-size: 20px;
   text-decoration: none;
+  color: blue;
 }
 
 .footerContainer {
