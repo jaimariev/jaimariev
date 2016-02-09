@@ -149,13 +149,21 @@ h4 {
   text-decoration: underline;
 }
 
-.project1 {
+.projectA {
   display: inline-block;
   width: 40%;
   margin:auto;
 }
 
-.project2 {
+.projectB {
+  width: 40%;
+  margin: auto;
+  float: right;
+  display: inline-block;
+  position: relative;
+}
+
+.projectC {
   width: 40%;
   margin: auto;
   float: right;
